@@ -1,0 +1,8 @@
+interface:
+  display_name: "金融科普图文"
+  short_description: "先确认发布平台，再生成连续的金融科普全图片内容"
+  default_prompt: "使用 $finance-visual-story 制作这个金融科普主题，并先询问我要生成哪个平台。"
+
+policy:
+  allow_implicit_invocation: true
+
